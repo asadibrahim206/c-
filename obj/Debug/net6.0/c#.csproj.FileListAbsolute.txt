@@ -1,0 +1,15 @@
+/home/Asad/Documents/c#/bin/Debug/net6.0/c#
+/home/Asad/Documents/c#/bin/Debug/net6.0/c#.deps.json
+/home/Asad/Documents/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/home/Asad/Documents/c#/bin/Debug/net6.0/c#.dll
+/home/Asad/Documents/c#/bin/Debug/net6.0/c#.pdb
+/home/Asad/Documents/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/home/Asad/Documents/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/Asad/Documents/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/home/Asad/Documents/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/home/Asad/Documents/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/home/Asad/Documents/c#/obj/Debug/net6.0/c#.dll
+/home/Asad/Documents/c#/obj/Debug/net6.0/refint/c#.dll
+/home/Asad/Documents/c#/obj/Debug/net6.0/c#.pdb
+/home/Asad/Documents/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache
+/home/Asad/Documents/c#/obj/Debug/net6.0/ref/c#.dll
